@@ -1,1 +1,1 @@
-Hello!i am new to this space and would appreciate any tips or help i can get. i am currently learning data analysis on Cisco networking academy.
+Hello!I am new to this space and would appreciate any tips or help I can get.I am currently learning data analysis on Cisco networking academy.
